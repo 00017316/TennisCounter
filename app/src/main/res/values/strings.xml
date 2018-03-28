@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tennis Counter</string>
+    <string name="point1_15">+15</string>
+    <string name="point2_30">+30</string>
+    <string name="point3_40">+40</string>
+    <string name="point4_adv">+Adv.</string>
+    <string name="reset_button">Reset</string>
+    <string name="score_text">Score:</string>
+    <string name="score_quantity">0</string>
+    <string name="point_plus">+ Point</string>
+    <string name="initial_score">0</string>
+    <string name="jugador_2">Jugador 2</string>
+    <string name="jugador_1">Jugador 1</string>
+    <string name="set_1">1</string>
+    <string name="set_2">2</string>
+    <string name="set_3">3</string>
+</resources>
