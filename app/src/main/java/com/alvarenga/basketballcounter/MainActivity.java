@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
                     score1.setText("Adv");
                 }else if(score2.getText().toString().matches("Adv") && score1.getText().toString().matches("40")){
                     score2.setText("40");
-                    score1.setText("Adv");
+                    score1.setText("40");
                 }
             }
         });
@@ -189,7 +189,7 @@ public class MainActivity extends AppCompatActivity {
                     score2.setText("Adv");
                 }else if(score1.getText().toString().matches("Adv") && score2.getText().toString().matches("40")){
                     score1.setText("40");
-                    score2.setText("Adv");
+                    score2.setText("40");
                 }
             }
         });
